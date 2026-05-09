@@ -1,0 +1,12 @@
+# autor: Rayssa Ramos
+# Projeto: Entradas com nomes
+
+# variáveis 
+nome = input('Digite seu nome: ')
+valor1 = int(input('Digite o primeiro valor: '))
+valor2 = int(input('Digite o segundo valor: '))
+resultado = valor1 + valor2
+
+# exibindo os resultados
+print(nome)  
+print('o resultado é: ', resultado)
